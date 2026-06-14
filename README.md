@@ -12,6 +12,7 @@
 
 [![Frontend](https://img.shields.io/badge/Frontend-Repository-6E56CF?style=for-the-badge&logo=react&logoColor=white)](https://github.com/HWISU96/yeji_frontend)
 [![Backend](https://img.shields.io/badge/Backend-Repository-2E7D32?style=for-the-badge&logo=springboot&logoColor=white)](https://github.com/HWISU96/yeji_backend)
+[![AI Server](https://img.shields.io/badge/AI_Server-Repository-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/HWISU96/yeji_ai)
 
 </div>
 
@@ -156,6 +157,7 @@ flowchart LR
 | Data | Axios, Fetch API, SSE |
 | Visualization | Recharts |
 | Backend | Java 21, Spring Boot, Spring Security |
+| AI Server | Python 3.11, FastAPI, vLLM, Pydantic |
 | Storage | PostgreSQL, Redis |
 | Build·Deploy | Vite, Gradle, Docker, Nginx |
 
@@ -167,6 +169,7 @@ flowchart LR
 |---|---|
 | [yeji_frontend](https://github.com/HWISU96/yeji_frontend) | 담당 기능과 개발 이력이 포함된 프론트엔드 |
 | [yeji_backend](https://github.com/HWISU96/yeji_backend) | 서비스 연동 구조 확인을 위한 팀 백엔드 공개본 |
+| [yeji_ai](https://github.com/HWISU96/yeji_ai) | FastAPI, vLLM 기반 팀 AI 서버 공개본 |
 
 ## 개선 방향
 
